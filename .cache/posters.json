@@ -1,0 +1,702 @@
+{
+  "shawshank-redemption,-the:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:36.124Z"
+  },
+  "godfather,-the:1972": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1972",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:36.380Z"
+  },
+  "fight-club:1999": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1999",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:36.644Z"
+  },
+  "star-wars:-episode-iv---a-new-hope:1977": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1977",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:37.150Z"
+  },
+  "usual-suspects,-the:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:38.039Z"
+  },
+  "schindler's-list:1993": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1993",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:39.785Z"
+  },
+  "pulp-fiction:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:43.405Z"
+  },
+  "star-wars:-episode-v---the-empire-strikes-back:1980": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1980",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:25:50.668Z"
+  },
+  "godfather:-part-ii,-the:1974": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1974",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:26:04.796Z"
+  },
+  "the-shawshank-redemption:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:28:34.710Z"
+  },
+  "the-godfather:1972": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1972",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:28:34.937Z"
+  },
+  "the-usual-suspects:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:28:36.549Z"
+  },
+  "toy-story:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:02.262Z"
+  },
+  "the-godfather:-part-ii:1974": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1974",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:02.373Z"
+  },
+  "toy-story-2:1999": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1999",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:38.136Z"
+  },
+  "jurassic-park:1993": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1993",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:38.293Z"
+  },
+  "independence-day-(a.k.a.-id4):1996": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1996",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:38.570Z"
+  },
+  "forrest-gump:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:40.469Z"
+  },
+  "the-lion-king:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:42.878Z"
+  },
+  "star-wars:-episode-vi---return-of-the-jedi:1983": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1983",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:47.758Z"
+  },
+  "mission:-impossible:1996": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1996",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:29:56.985Z"
+  },
+  "groundhog-day:1993": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1993",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:30:15.833Z"
+  },
+  "the-matrix:1999": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1999",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:45:47.419Z"
+  },
+  "the-dark-knight:2008": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "2008",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:51:59.969Z"
+  },
+  "raiders-of-the-lost-ark-(indiana-jones-and-the-raiders-of-the-lost-ark):1981": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1981",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:52:01.821Z"
+  },
+  "goodfellas:1990": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1990",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:52:02.241Z"
+  },
+  "the-princess-bride:1987": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1987",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:52:03.070Z"
+  },
+  "dr.-strangelove-or:-how-i-learned-to-stop-worrying-and-love-the-bomb:1964": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1964",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:52:07.921Z"
+  },
+  "the-departed:2006": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "2006",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:52:14.671Z"
+  },
+  "the-silence-of-the-lambs:1991": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1991",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:52:34.857Z"
+  },
+  "braveheart:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:53:28.027Z"
+  },
+  "apollo-13:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:55:40.103Z"
+  },
+  "seven-(a.k.a.-se7en):1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:42.925Z"
+  },
+  "jumanji:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.576Z"
+  },
+  "grumpier-old-men:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.608Z"
+  },
+  "waiting-to-exhale:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.635Z"
+  },
+  "father-of-the-bride-part-ii:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.664Z"
+  },
+  "heat:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.707Z"
+  },
+  "sabrina:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.732Z"
+  },
+  "tom-and-huck:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.756Z"
+  },
+  "sudden-death:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.780Z"
+  },
+  "goldeneye:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.803Z"
+  },
+  "the-american-president:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.827Z"
+  },
+  "dracula:-dead-and-loving-it:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.850Z"
+  },
+  "balto:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.874Z"
+  },
+  "nixon:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.900Z"
+  },
+  "cutthroat-island:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.924Z"
+  },
+  "casino:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:58:45.948Z"
+  },
+  "one-flew-over-the-cuckoo's-nest:1975": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1975",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:12.096Z"
+  },
+  "fargo:1996": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1996",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:12.135Z"
+  },
+  "reservoir-dogs:1992": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1992",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:12.160Z"
+  },
+  "american-beauty:1999": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1999",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:12.187Z"
+  },
+  "mrs.-doubtfire:1993": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1993",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:47.949Z"
+  },
+  "the-mask:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.028Z"
+  },
+  "home-alone:1990": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1990",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.057Z"
+  },
+  "the-nightmare-before-christmas:1993": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1993",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.086Z"
+  },
+  "aladdin:1992": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1992",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.114Z"
+  },
+  "beauty-and-the-beast:1991": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1991",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.135Z"
+  },
+  "ace-ventura:-when-nature-calls:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.157Z"
+  },
+  "the-santa-clause:1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T10:59:48.176Z"
+  },
+  "terminator-2:-judgment-day:1991": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1991",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:00:58.087Z"
+  },
+  "sense-and-sensibility:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:03.965Z"
+  },
+  "four-rooms:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:04.036Z"
+  },
+  "money-train:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:04.184Z"
+  },
+  "get-shorty:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:04.658Z"
+  },
+  "copycat:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:05.102Z"
+  },
+  "assassins:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:05.541Z"
+  },
+  "powder:1995": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1995",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:06.043Z"
+  },
+  "back-to-the-future:1985": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1985",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:01:46.363Z"
+  },
+  "léon:-the-professional-(a.k.a.-the-professional)-(léon):1994": {
+    "posterUrl": "",
+    "backdropUrl": "",
+    "overview": "",
+    "releaseYear": "1994",
+    "rating": null,
+    "runtime": null,
+    "source": "fallback",
+    "cachedAt": "2026-06-05T12:02:54.858Z"
+  }
+}
